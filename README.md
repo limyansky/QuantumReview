@@ -3,6 +3,7 @@
 I review my knowledge of quantum mechanics, but make use of Mathematica to do so. 
 
 I will follow along with these sources: 
+
 **Using Mathematica for Quantum Mechanics** _A Student's Manual_ by Roman Schmied
 https://arxiv.org/abs/1403.7050
 
